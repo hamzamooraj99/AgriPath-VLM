@@ -57,5 +57,10 @@ In-Progress...
 - **VSCode**
 - **Anaconda**
 
+## Hardware:
+- AMD Ryzen 9 7950X CPU (16 Core, 32 Thread Processor)
+- NVIDIA RTX 4080 Super (16GB GDDR6X VRAM)
+- 32GB RAM (DDR5 6000MHz)
+
 ## License:
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
