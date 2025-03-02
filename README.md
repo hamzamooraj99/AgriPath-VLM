@@ -14,7 +14,7 @@ The models used in the study are trained and fine-tuned on the AgriPath-LF16 dat
 - **Crops:** 16 classes of crops ranging across fruits, vegetables and grains.
 - **Diseases:** 41 unique diseases across all 16 crops, resulting in 65 unique crop-disease pairs.
 - **Sources:** Images are either lab-based[^1] or field-based[^2]
-- **Splits:** The dataset is split into training, validation and test sets with an 80-10-10 ratio
+- **Splits:** The dataset is split into training, validation and test sets with an 80-10-10 ratio  
 AgriPath-LF16 is hosted using 🤗 Datasets where there is the full version with 111k samples, and a down-sampled version with 30k samples.
 
 > https://huggingface.co/hamzamooraj99
